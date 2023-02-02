@@ -70,9 +70,13 @@ This is pretty much the gist of how its set up at the moment. The APIs are hoste
 Pretty much its just:
 
 ReactJS ~18.2 + HTML 5 + CSS 3
+
 ASP.Net Core 7
+
 GitHub
+
 AWS (EC2, S3, CloudFront, Route53, RDS Serverless v2) + Vercel
+
 
 IDEs:
 Vim, JetBrains Rider, VSCode
