@@ -14,7 +14,7 @@ Ask ChatGPT.
 
 ## Getting started
 
-### Adding to Home Screen (recommended, iOS only)
+### Adding to Home Screen (highly recommended, iOS only)
 1) In Safari, go to https://relaychat.net
 2) At the bottom of Safari, press the Share button
 3) Click Add To Home Screen
