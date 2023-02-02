@@ -64,6 +64,7 @@ The source code for the CDN gateway, messaging backend, (soon to be) Kubernetes 
 ![Blank diagram](https://user-images.githubusercontent.com/82483782/216420301-72d61323-62c0-48da-9e19-49b83559b906.png)
 
 This is pretty much the gist of how its set up at the moment. The APIs are hosted on t2.micro EC2 instances - cheap and powerful enough. I've designed it very intentionally such that someone could create their own front end client. I'm intentionally not obfuscating anything. 
+There are plans to break this out to a more scalable solution. The main API will be split into a messaging and auth service separately at the absolute least. A CQRS design pattern has been used for the API (using MediatR).
 
 ### Tech stack
 
