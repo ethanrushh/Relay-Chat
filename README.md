@@ -9,6 +9,9 @@ Important: Relay Chat is a side project I'm working on for fun. Its not a commer
 ## What is Relay Chat
 Relay Chat is a fun place to hang out and chat with your friends. Its been designed to capture the feel and experience of older chat apps. There are no servers and no user discovery - you need to know someone's username to add them. DMs don't exist by default. You create your own groups between users designed to be customized to your liking. 
 
+## Why "Relay"?
+Ask ChatGPT.
+
 ## Getting started
 
 ### Sign Up
