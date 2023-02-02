@@ -14,6 +14,12 @@ Ask ChatGPT.
 
 ## Getting started
 
+### Adding to Home Screen (recommended, iOS only)
+1) In Safari, go to https://relaychat.net
+2) At the bottom of Safari, press the Share button
+3) Click Add To Home Screen
+4) Enjoy! Use the newly created bookmark to better navigate Relay
+
 ### Sign Up
 Head over to https://relayapp.net to get started.
 ![image](https://user-images.githubusercontent.com/82483782/216411894-ee6acfd4-1b53-4347-aa4a-7936534cbf69.png)
