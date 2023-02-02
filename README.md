@@ -4,7 +4,7 @@ A fully hosted free chat service (side project)
 # Welcome
 ![Relay Chat Banner](https://user-images.githubusercontent.com/82483782/216410640-c7b81534-ce98-4e52-9ddb-373aa11919d6.png)
 
-Important: Relay Chat is a side project I'm working on for fun. Its not a commertial product, there is no guarrantee of data retention or that the servers will stay online. Its just for fun!
+Important: Relay Chat is a side project I'm working on for fun. Its not a commertial product, there is no guarrantee of data retention or that the servers will stay online - it's just for fun!
 
 ## What is Relay Chat
 Relay Chat is a fun place to hang out and chat with your friends. Its been designed to capture the feel and experience of older chat apps. There are no servers and no user discovery - you need to know someone's username to add them. DMs don't exist by default. You create your own groups between users designed to be customized to your liking. 
@@ -55,3 +55,6 @@ They are stored in a private MySQL database. Since this is a side project, DO NO
 
 ## Help, Feature Requests or Support
 Support for this application is not guarranteed at all. If you wish to help, need help with the app, have a feature request or would like to notify me of a bug you've spotted, message me through Relay! My username is `Ethan` (with the capital E). I have this app on my phone so I'll likely respond quickly to any messages you send me. Make sure to check back for a response!
+
+## Source code?
+The source code for the CDN gateway, messaging backend, (soon to be) Kubernetes files and front end will be available "soon". For security reasons I don't currently feel comfortable sharing this source code. If you would like a peek or wish to contribute, get in touch!
