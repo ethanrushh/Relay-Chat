@@ -58,3 +58,26 @@ Support for this application is not guarranteed at all. If you wish to help, nee
 
 ## Source code?
 The source code for the CDN gateway, messaging backend, (soon to be) Kubernetes files and front end will be available "soon". For security reasons I don't currently feel comfortable sharing this source code. If you would like a peek or wish to contribute, get in touch!
+
+## Insider intel
+### The structure
+![Blank diagram](https://user-images.githubusercontent.com/82483782/216420301-72d61323-62c0-48da-9e19-49b83559b906.png)
+
+This is pretty much the gist of how its set up at the moment. The APIs are hosted on t2.micro EC2 instances - cheap and powerful enough. 
+
+### Tech stack
+
+Pretty much its just:
+
+ReactJS ~18.2 + HTML 5 + CSS 3
+---------------
+ASP.Net Core 7
+---------------
+GitHub
+---------------
+AWS (EC2, S3, CloudFront, Route53, RDS Serverless v2) + Vercel
+
+IDEs:
+Vim, JetBrains Rider, VSCode
+
+Of course there's more but READMEs are boring so if you're curious about more detail then feel free to reach out to me.
