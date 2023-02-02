@@ -49,3 +49,9 @@ This will begin the file upload. Please allow a few moments for the upload to co
 ## Storage
 ### Where are my uploads stored?
 Uploads are stored in a non-publically accessible AWS S3 bucket. This sits behind a Cloudfront instance that is public. Don't upload anything you don't want people to see. Files are hashed and the resulting hash is used for file names. This is to make sure that duplicate files are impossible to save on storage space. 
+### Where are my text messages stored?
+They are stored in a private MySQL database. Since this is a side project, DO NOT TRUST IT! Don't say anything you don't want to people to see currently. Again, this is NOT a commercial product but rather a tech demo of some full stack programming I have self-taught. 
+
+
+## Help, Feature Requests or Support
+Support for this application is not guarranteed at all. If you wish to help, need help with the app, have a feature request or would like to notify me of a bug you've spotted, message me through Relay! My username is `Ethan` (with the capital E). I have this app on my phone so I'll likely respond quickly to any messages you send me. Make sure to check back for a response!
