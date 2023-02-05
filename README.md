@@ -1,5 +1,5 @@
 # Relay-Chat
-A fully hosted free chat service (side project) deployed to https://relayapp.net ONLY. 
+A fully hosted free chat service (side project) deployed to https://relayapp.net ONLY. This app is currently in the prototype stage. A complete rewrite of the server code and a major refactor of the fornt end will be coming in the future.
 
 # Welcome
 ![Relay Chat Banner](https://user-images.githubusercontent.com/82483782/216410640-c7b81534-ce98-4e52-9ddb-373aa11919d6.png)
